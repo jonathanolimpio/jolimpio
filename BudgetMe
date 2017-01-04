@@ -1,0 +1,10 @@
+<DOCTYPE html>
+<html>
+<head>
+        <title>Magic 8 Ball </title>
+    </head>
+    <body>
+    <h1>Magic 8 Ball</h1>
+    <script src="magic8.js"></script>
+    </body>
+</html>
